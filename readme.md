@@ -4,10 +4,13 @@
  
  ## Table of Contents 
 
-   [Indetification - Identification][#Indentification} 
+   - Identification
+   - Introduction
+   - Exploratory Data
+   - Conclusion
    
    
-[Markdown - Link](#Link)
+
 
 
 
@@ -48,5 +51,8 @@ Fuel Efficiency: The amount of money spent on refueling the car
 
 
 
+## Conclusion
+
+- In conclusion, conducting research on this topic was very challenging but very rewarding as I learned a lot of things. The original goal was to predict which factor was the most important and we can conclude that it is not just one simple factor that rules over the rest. A car is one of humanities greatest inventions and there are so many important components that can create one good vehicle. The research was very broad and we should have narrowed down to a specific market. It is very hard to compare a sport luxury sedan vs a comfortable daily driver when they have different markets and buyers. However we did learn that fuel effieciency is one of the more important facts that can increase the sales of a vehicle.This dataset has potential for further data science research. We can use methods such as linear regression to predict the future costs and values of vehicles based on the information we are provided. Using prediciti
 
 
