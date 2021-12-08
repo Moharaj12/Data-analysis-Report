@@ -43,7 +43,9 @@ Fuel Efficiency: The amount of money spent on refueling the car
 ![image_2021-12-07_204007](https://user-images.githubusercontent.com/90271165/145133115-fd1c4ebf-99d1-492e-93f1-237ca20a7d20.png)
 - We see that as the horsepower increases so does the  price.However around 300-350 horsepower the price is as high as 80,000 but trends downwards. This is very interesting becuase our hypothesis was that the higher the horsepower, the more expensive. This graph demonstrates that, it is simply not just the horsepower.Other factors such as torque,suspension, infotainment systems are reasons why the value of a vehicle could increase. However those factors are not in the dataset which limitates some of our research. For example a 2020 Lexus es 350 has 300 horsepower but has a price value of 49,0000 while a 2008 infiniti g35 has the same horsepower but costs way less (8000-15000).
 
-- Th
+-We can create a box plot to show our hypothesis. Take chrysler and audi for example. The range of horsepower is very similiar yet the price of an audi is significantly more expensive than a chrysler becuase of other factors such as suspension,fuel economy, body style, etc. 
+ ![image_2021-12-07_214909](https://user-images.githubusercontent.com/90271165/145139645-cc4364d0-327e-4785-8e7a-004d63ca82a2.png)
+
 
 
 
