@@ -4,8 +4,8 @@ Table of Contents
 
   1.Indetification 
   2. Introduction
-  3. Exploratory Analysis
-  4.Conclusion
+  4. Exploratory Analysis
+  6.Conclusion
 
 
 
